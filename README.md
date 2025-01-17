@@ -12,19 +12,6 @@ I am a passionate developer with a keen interest in software development and ope
 - 💬 Ask me about: Web development, software architecture, and best coding practices.
 - 📫 How to reach me: [Email](mailto:megorka2014@gmail.com)
 
-## Projects
-
-Here are some of the projects I've been working on:
-
-### [Project 1](https://github.com/egor54325/project1)
-A brief description of Project 1. This project is about...
-
-### [Project 2](https://github.com/egor54325/project2)
-A brief description of Project 2. This project focuses on...
-
-### [Project 3](https://github.com/egor54325/project3)
-A brief description of Project 3. The main goal of this project is...
-
 ## GitHub Stats
 
 ![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=egor54325&show_icons=true&theme=radical)
